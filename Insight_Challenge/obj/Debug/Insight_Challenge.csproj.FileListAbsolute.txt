@@ -1,0 +1,9 @@
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\bin\Debug\Insight_Challenge.exe.config
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\bin\Debug\Insight_Challenge.exe
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\bin\Debug\Insight_Challenge.pdb
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.csprojAssemblyReference.cache
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.Form1.resources
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.Properties.Resources.resources
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.exe
+C:\Users\Tuan\source\repos\Insight_Challenge\Insight_Challenge\obj\Debug\Insight_Challenge.pdb
